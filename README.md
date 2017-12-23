@@ -1,5 +1,5 @@
-Main: 63875
-RPC : 55214
+Main: 21099
+RPC : 66963 
 
-Testnet:- Default - 22613
-Testnet:- RPC - 75162
+Testnet:- Default - 21423
+Testnet:- RPC - 36399
